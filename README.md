@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](portfoliosantz.netlify.app)
 
 ---
 
@@ -81,7 +81,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, apaixonado por te
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 - [E-mail](mailto:seu-email@gmail.com)
-- [Portfolio](https://seu-portfolio.com)
+- [Portfolio](portfoliosantz.netlify.app)
 
 ---
 
