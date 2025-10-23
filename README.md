@@ -57,15 +57,11 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, apaixonado por te
 ## 🌟 Meus Projetos em Destaque
 
 ### 🎯 Projetos Acadêmicos
-- **Sistema de Gestão Escolar** - Desenvolvido em Python
-- **Site E-commerce** - Criado com React e JavaScript
-- **Aplicativo de Tarefas** - Interface responsiva com HTML5 e CSS3
+- **Sistemas de 'Match' para Braskem** - Criado com React e JavaScript
+- **Site simples SpaceAgile** - Interface responsiva com HTML5, CSS3 e JavaScript
 
 ### 🔧 Projetos Pessoais
 - **Portfólio Digital** - Apresentação dos meus trabalhos
-- **Calculadora Interativa** - Projeto para praticar JavaScript
-- **Clone de Interface** - Réplica de sites populares para aprendizado
-
 ---
 
 ## 📚 O Que Estou Estudando Agora
@@ -74,6 +70,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, apaixonado por te
 - **APIs REST** - Integração back-end e front-end
 - **Git e GitHub** - Controle de versão e colaboração
 - **JavaScript ES6+** - Recursos modernos da linguagem
+- **Django** - Framework de Python
 
 ---
 
